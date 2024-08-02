@@ -1,0 +1,41 @@
+botany pots
+realitve id (seed,soil,sapling) {drop chance rolls}
+
+2500
+minecraft:prismarine (shard, prismarine, bricks) {shard 100% 1-4, crystal 100% 1-4}
+minecraft:golden_carrot (carrot, goldsoil, carrot) {golden_carrot 100% 1-2, golden_carrot 50% 1-2, carrot 25% 1-4}
+thermal:apatite (apatite,block,ore) {apatite 100% 1-4}
+thermal:cinnabar (cinnabar,block,ore) {cinnabar 100% 1-4}
+thermal:niter (niter,block,ore) {niter 100% 1-4}
+thermal:sulfur (sulfur,block,ore) {sulfur 100% 1-4}
+
+3000
+minecraft:netherite (ingot,block,ancient_debris) {ancient_debris 100% 1-2, netherite_scrap 25% 1-2}
+undergarden:cloggrum(ingot, block,ore) {raw 100% 1-3}
+undergarden:froststeel (ingot,block,ore){raw 100% 1-3}
+undergarden:forgetten (ingot,block,block) {nugget 100% 1-3, nugget 50% 1-3}
+thermalendergy:prismlium (ingot,block,block) {ingot 100% 1-2}
+thermalendergy:melodium (ingot,block,block) {ingot 100% 1-2}
+thermalendergy:stellarium (ingot,block,block) {ingot 100% 1-4}
+thermal_extra:soul_infused (ingot,block,block) {ingot 100% 1-2}
+thermal_extra:shellite (ingot,block,block) {ingot 100% 1-2, minecraft:shulker_shell 10% 1-3}
+thermal_extra:twinite (ingot, block,block) {ingot 100% 1-2}
+thermal_extra:dragonsteel (ingot, block,block) {ingot 100% 1-2}
+thermal:signalum (ingot, block,block) {ingot 100% 1-4}
+thermal:lumium (ingot, block,block) {ingot 100% 1-4}
+thermal:enderium (ingot, block,block) {ingot 100% 1-2}
+thermal:oil_sand (bitumen, sand, oil_sand) {oil_sand 75% 1-1, oil_red_sand 75% 1-1}
+fluxnetworks:flux (dust, block,block) {dust 100% 1-8, core 50% 1-4}
+blocksyouneed_luna:pig_iron (ingot, block,block) {ingot 100% 1-9}
+blocksyouneed_luna:wrought_iron (ingot, block,block) {ingot 100% 1-9}
+blocksyouneed_luna:antimetal (ingot, minecraft:crying_obsidian, block) {ingot 100% 1-1}
+blocksyouneed_luna:coke (coke, block, coal ore) {coke 100% 1-1}
+blocksyouneed_luna:bitumen  (bitumen,asphalt_pitch,thermal:oil_sand) {bitumen 100% 1-1}
+X enderio:grains_of_infinity (flint, crying_obsidian, deepslate) {grains_of_infinity 25% 1-4}
+
+4000
+X enderio:pulsating (crystal,alloy,diamond soil) {crystal 100% 1-1}
+X enderio:vibrant (crystal,alloy,emerald soil) {crystal 100% 1-1}
+
+7500
+minecraft:nether_star (wither_skeleton_skull, soul_sand) {star 50% 1-1, wither_skeleton_skull 25% 1-1}
